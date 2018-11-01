@@ -2,7 +2,20 @@
 A repository containing code and data for a churn prediction project in the automotive service business.
 
 It is a stringent revision of a bigger project done by myself and is basis for a blog publication on Medium. 
-To write such an article is a task in Udacity's Data Science program. The article can be found [here](https://medium.com/@raph_91654/predict-churn-retain-your-customers-39cc62c322ed). It contains the main findings in a 5 min read.
+To write such an article is a task in Udacity's Data Science program. The article can be found [here](https://medium.com/@raph_91654/predict-churn-retain-your-customers-39cc62c322ed). 
+
+### Introduction to project and results
+
+The automotive retail business is under pressure. The industry relies heavily on recurring aftersales service revenues to make a profit.
+But customers are generally free to choose where to service their cars once they have bought them and so it is crucial for individual 
+car retail companies to turn their erstwhile buyers into loyal service customers. 
+The goal of this project is to help a large european automotive retail and service company to reduce its churn rate (= the ratio of
+customers who switch away from one supplier to another in a given period) by building a predictive model to identify customers 
+that are about to churn. The project was designed to answer 3 questions:
+
+1) Can we effectively explain customer churn? (Yes, the model achieves a reasonable F1-score of 0.82 over all)
+2) What are the main features leading to churn? (top 3 features: car age, duration of relationship, distance from customer to branch)
+3) How can we act? (this question is addressed in the blogpost only)
 
 ### Install
 
