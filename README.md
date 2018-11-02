@@ -42,11 +42,11 @@ In a terminal or command window, navigate to the top-level project directory (th
 and run one of the following commands:
 
 ```bash
-ipython notebook finding_donors.ipynb
+ipython notebook code_churnBlog.ipynb
 ```  
 or
 ```bash
-jupyter notebook finding_donors.ipynb
+jupyter notebook code_churnBlog.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
