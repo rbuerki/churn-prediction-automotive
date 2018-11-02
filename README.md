@@ -15,8 +15,8 @@ customers who switch away from one supplier to another in a given period) by bui
 that are about to churn. The project was designed to answer 3 questions:
 
 1) Can we effectively explain customer churn? (Yes, the model achieves a reasonable F1-score of 0.82 over all)
-2) What are the main features leading to churn? (top 3: car age, duration of relationship, distance from customer to branch)
-3) How can we act? (this question is addressed in the blogpost only)
+2) What are the main features leading to churn? (Top 3: car age, duration of relationship / recency, distance home adress to branch)
+3) How can we act? (This question is addressed in the blogpost only)
 
 ### Install
 
