@@ -1,7 +1,7 @@
 # blogPost-Churn
 A repository containing code and data for a churn prediction project in the automotive service business.
 
-It is a stringent revision of a bigger project done by myself and is basis for a blog publication on Medium. 
+This code is a stringent revision of a larger project and serves as basis for a blog publication on Medium. 
 To write such an article (adressing people with a non-tech background) is a task in Udacity's Data Science program. 
 The article can be found [here](https://medium.com/@raph_91654/predict-churn-retain-your-customers-39cc62c322ed). 
 
