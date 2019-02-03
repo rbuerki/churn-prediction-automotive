@@ -1,22 +1,20 @@
-# blogPost-Churn
+# Churn Prediction in the Automotive Industry
 A repository containing code and data for a churn prediction project in the automotive service business.
-
-This code is a stringent revision of a larger project and serves as basis for a blog publication on Medium. 
-To write such an article (adressing people with a non-tech background) is a task in Udacity's Data Science program. 
-The article can be found [here](https://medium.com/@raph_91654/predict-churn-retain-your-customers-39cc62c322ed). 
 
 ### Introduction to project and results
 
 The automotive retail business is under pressure. The industry relies heavily on recurring aftersales service revenues to make a profit.
-But customers are generally free to choose where to service their cars once they have bought them and so it is crucial for individual 
-car retail companies to turn their erstwhile buyers into loyal service customers. 
 The goal of this project is to help a large european automotive retail and service company to reduce its churn rate (= the ratio of
-customers who switch away from one supplier to another in a given period) by building a predictive model to identify customers 
-that are about to churn. The project was designed to answer 3 questions:
+customers who switch away from one supplier to another in a given period) by building _a predictive model to identify customers 
+that are about to churn._ The project was a successful prototype for a model that was later implemented by the companys Data Science team. I used this project as capstone for Udacity's Machine Learning Nanodegree. 
 
-1) Can we effectively explain customer churn? (Yes, the model achieves a reasonable F1-score of 0.82 over all)
-2) What are main features leading to churn? (Top 3: car age, duration of relationship / recency, distance home to branch)
-3) How can we act? (This question is addressed in the blogpost only)
+The project was designed to answer 3 questions:
+
+1) Can customer churn be predicted? (Yes, the model achieves a reasonable F1-score of 0.82 over all)
+2) What are main drivers for churn? (Top 3: car age, duration of relationship / recency, distance home to branch)
+3) What can be done to prevent churn? (This question is addressed in the blogpost only, see notebook 4.)
+
+The project proposal and final report for the full project can be found in the `reports` section. A subsequent [blogpost](https://medium.com/@raph_91654/predict-churn-retain-your-customers-39cc62c322ed) summarizes the results. In the `rescources` section you'll find some interesting papers concerning churn prediction with Machine Learning.
 
 ### Install
 
@@ -33,28 +31,17 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ### Code
 
-Template code is provided in the `blog_automotiveChurn.ipynb` notebook file. 
-It requires the `churnData.csv` dataset file to run. 
+The main code is split-up into 4 Jupyter notebooks, numbered 1 to 4:
+1. `1-prep_get geo distances.ipynb`: feature engineering: calculate geo distances from customer adresses to their service branch
+2. `2-EDA_cleaning.ipynb`: EDA and cleaning of features
+3. `3-modelling_evaluation.ipynb`: modelling with 5 different classifiers, experimentation with PCA and tuning, result evaluation
+4. `4-end_to_end_run.ipynb`: this is a concise rework of the earlier steps for the best performing Gradient Boosting Classifier. Because of more targeted data preparation the results here are better than in the version from notebook 3.
 
-### Run
-
-In a terminal or command window, navigate to the top-level project directory (the one that contains this README) 
-and run one of the following commands:
-
-```bash
-ipython notebook code_churnBlog.ipynb
-```  
-or
-```bash
-jupyter notebook code_churnBlog.ipynb
-```
-
-This will open the iPython Notebook software and project file in your browser.
+In this project I started to outsource functions for cleaning and EDA into collections of functions that would later form my `codebook`(see the repository of the same name.) For this project they are still stored in some .py files in the main folder. 
 
 ### Data
 
-The dataset consists of approximately 50,000 data points (=cars), with each datapoint having 43 features. 
-This dataset is a pre-cleaned version of the original dataset given to me by a large european automotive retail group.
+The cleaned dataset `churnDataWithDisctances.csv` used for modelling consists of approximately 50,000 data points (=cars), with each datapoint having 43 features. (This set is a pre-cleaned version of the original dataset, given to me by a large european automotive retail group, see notebooks 1 and 2 for cleaning steps.)
 
 **Target Variable**
 - `target_event`: customer status ('CHURN', 'ACTIVE')

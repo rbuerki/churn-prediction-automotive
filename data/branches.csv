@@ -1,0 +1,71 @@
+Nr.;Strasse;PLZ;Ort;Latitude;Longitude;VP VW;VP Audi;VP SEAT;VP Skoda;VP NF;SP VW;SP Audi;SP SEAT;SP Skoda;SP NF
+320;Avenue de Provence 2;1007;Lausanne;46.5231323;6.6118982;1; -   ; -   ;1;1;1; -   ; -   ;1;1
+330;Rue de la Vernie 2;1023;Crissier;46.5437219;6.5717783; -   ;1;1; -   ; -   ; -   ;1;1; -   ; -   
+348;Route de Buchillon 1;1163;Etoy;46.4738291;6.4130478;1;1;1;1;1;1;1;1;1;1
+777;Route de la Vallée 1;1180;Rolle;46.4627663;6.3350535;;;;;;;;;;
+244;Route de Lausanne 114;1260;Prangins;46.3909917;6.2512741; -   ;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   
+240;Route du Pont-Butin 14;1213;Petit-Lancy;46.1955233;6.11143;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   ;1
+6136;Route du Nant-d'Avril 34;1214;Vernier;46.2202862;6.085557;1; -   ; -   ;1;1;1; -   ; -   ;1;1
+3100;Ch. Jacques-Philibert-de-Sauvage 44;1219;Châtelaine;46.2144123;6.1028734; -   ;1;1; -   ; -   ; -   ;1;1; -   ; -   
+241;Chemin de la Marbrerie 9;1227;Carouge;46.1791194;6.1354866;1; -   ; -   ;1; -   ;1; -   ; -   ;1; -   
+227;Route de Riaz 85;1630;Bulle;46.6279837;7.0600855;1;1; -   ; -   ;1;1;1; -   ;1;1
+220;Route de Villars 103;1752;Fribourg;46.7994113;7.1347873;1;1;1;1; -   ;1;1;1;1; -   
+850;Route du Crochet 8;1762;Givisiez;46.8154441;7.1332847; -   ; -   ; -   ; -   ;1; -   ; -   ; -   ; -   ;1
+600;Avenue du Général-Guisan 78;1800;Vevey 1;46.4667172;6.8364116;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   ; -   
+610;Route Industrielle 9;1806;St-Légier-La Chiésaz;46.4746631;6.8638812; -   ;1; -   ; -   ; -   ; -   ;1;1; -   ; -   
+6114;Route du Simplon 24;1845;Noville;46.3901391;6.9219158; -   ; -   ; -   ;1;1; -   ; -   ; -   ;1;1
+501;Leuzigenstrasse 2;2540;Grenchen;47.191316;7.408872; -   ; -   ; -   ; -   ;1;1; -   ; -   ; -   ;1
+140;Römerstrasse 16;2555;Brügg;47.1217868;7.2612267;1;1;1;1;1;1;1;1;1;1
+100;Wankdorffeldstrasse 60;3014;Bern;46.9659606;7.4655011;1;1; -   ;1;1;1;1; -   ;1;1
+290;Moosrainweg 14;3053;Münchenbuchsee;47.0306714;7.4348553; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+3346;Worbstrasse 226;3073;Gümligen;46.9328211;7.5062608; -   ; -   ;1; -   ; -   ;1; -   ;1;1;1
+232;Bernstrasse 11;3280;Murten;46.9302041;7.1216493; -   ; -   ; -   ;1; -   ;1; -   ; -   ;1;1
+570;Gwattstrasse 22;3604;Thun;46.7379075;7.6267884;1;1;1;1;1;1;1;1;1;1
+500;Gewerbestrasse 11;4528;Zuchwil;47.200595;7.574839;1;1;1;1;1;1;1;1;1;1
+460;Bodenackerstrasse 61;4657;Dulliken;47.3502822;7.9533725;1; -   ; -   ;1;1;1;1; -   ;1;1
+464;Bernstrasse 23;4665;Oftringen;47.3098084;7.9124642;1; -   ; -   ; -   ; -   ;1;1; -   ; -   ;1
+3537;Rohrerstrasse 30;5000;Aarau;47.3950742;8.0579949; -   ;1;1; -   ; -   ; -   ;1;1;1; -   
+1;Aarauerstrasse 22;5116;Schinznach Bad;47.4472624;8.1680594;1; -   ; -   ;1;1;1;1;1;1;1
+540;Winkelstrasse 2;5442;Fislisbach;47.4417298;8.2954185; -   ;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   
+400;Grabenhofstrasse 10;6010;Kriens;47.0237854;8.2959426; -   ;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   
+415;Seetalstrasse 32;6020;Emmenbrücke 1;47.0730727;8.2885804;1; -   ; -   ; -   ;1;1;1; -   ; -   ;1
+399;Sandblatte 3;6026;Rain;47.1261878;8.2439922;1; -   ;1; -   ;1;1;1;1; -   ;1
+380;Luzernerstrasse 17;6030;Ebikon;47.0774404;8.3352772;1; -   ; -   ; -   ;1;1;1; -   ;1;1
+6601;Mooshüslistrasse 32;6032;Emmen;47.0786641;8.290315; -   ; -   ; -   ;1; -   ; -   ; -   ; -   ;1; -   
+376;Neuweidstrasse 1;6208;Sursee;47.1523621;8.1158342;1;1; -   ;1;1;1;1; -   ;1;1
+645;Alte Steinhauserstrasse 1a;6330;Cham;47.1861207;8.4736495;1;1;1;1;1;1;1;1;1;1
+655;Zugerstrasse 2;6340;Sihlbrugg;47.2170021;8.5757777; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+888;Gotthardstrasse 23;6414;Oberarth;47.0566081;8.5332829;;;;;;;;;;
+92;Via Bellinzona 8;6512;Giubiasco;46.179466;9.01448; -   ;1; -   ;1; -   ; -   ;1; -   ;1; -   
+90;Via S. Gottardo 92;6500;Bellinzona;46.2054293;9.0359167;1; -   ; -   ; -   ;1;1; -   ; -   ; -   ;1
+3570;Via Cantonale;6517;Contone;46.15054;8.933239; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+369;Via Rinaldi 3;6850;Mendrisio;45.860433;8.9698199;1;1; -   ; -   ;1;1;1; -   ; -   ;1
+6696;Via S. Gottardo 52;6877;Coldrerio;45.8577698;8.9862274; -   ; -   ; -   ;1; -   ; -   ; -   ; -   ;1; -   
+350;Via Monte Boglia 24;6900;Lugano 4 Molino Nuovo Casel;46.0175819;8.9610616;1; -   ; -   ;1; -   ;1;1; -   ;1;1
+359;Via Ponte Tresa 35;6924;Sorengo;45.9965157;8.9356015;1; -   ; -   ; -   ;1;1; -   ; -   ; -   ;1
+357;Via alla Roggia 1;6926;Montagnola;45.975602;8.9265263; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+373;Via S. Carlo 6;6932;Breganzona;46.0138068;8.9329889; -   ;1;1; -   ; -   ;1;1;1; -   ; -   
+165;Rossbodenstrasse 14;7000;Chur;46.8507029;9.5052629;1;1; -   ;1;1;1;1; -   ;1;1
+190;Talstrasse 22;7270;Davos Platz;46.7952994;9.8246687;1;1; -   ;1;1;1;1; -   ;1;1
+650;Utoquai 49;8008;Zürich-Uto;47.3622744;8.5476343; -   ;1; -   ; -   ; -   ;1;1; -   ; -   ; -   
+6810;Kalchbühlstrasse 40-44;8038;Zürich-Skoda;47.3398387;8.5315034; -   ; -   ; -   ;1; -   ; -   ; -   ; -   ;1; -   
+710;Rautistrasse 22;8047;Altstetten;47.3803811;8.4929323; -   ;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   
+790;Bächliwis 29;8184;Bachenbülach;47.5077374;8.5433274; -   ;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   
+450;Spitalstrasse 27;8200;Schaffhausen;47.6998358;8.6332455;1;1; -   ;1;1;1;1; -   ;1;1
+260;Hauptstrasse 118;8280;Kreuzlingen;47.6443311;9.1811889;1;1; -   ;1;1;1;1; -   ;1;1
+690;Steinackerstrasse 20;8302;Kloten;47.448662;8.5963893; -   ; -   ; -   ; -   ; -   ;1; -   ; -   ;1;1
+3030;Neue Winterthurerstrasse 99, Briefkasten 14.2;8304;Wallisellen;47.4083697;8.5956746;;;1;;;;;;;
+6841;Zürcherstrasse 240;8406;Winterthur;47.4857062;8.7018946;1;1; -   ;1;1;1;1; -   ;1;1
+200;Zürcherstrasse 331;8500;Frauenfeld;47.5665675;8.9124657;1;1; -   ;1;1;1;1; -   ;1;1
+277;Deucherstrasse 34;8570;Weinfelden;47.5621159;9.1216163; -   ; -   ; -   ; -   ; -   ;1; -   ; -   ;1;1
+3962;Steinstrasse 5;8574;Lengwil;47.6271768;9.1890485; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+698;Giessenstrasse 4;8600;Dübendorf;47.4018524;8.6096939;1;1;1;1;1;1;1;1;1;1
+781;Hölzliwisenstrasse 1;8604;Volketswil;47.3789745;8.6806119; -   ; -   ; -   ; -   ; -   ; -   ;1; -   ; -   ; -   
+680;Ackerstrasse 47;8610;Uster;47.3565866;8.7061158;1; -   ; -   ;1;1;1; -   ; -   ;1;1
+6831;Pfäffikerstrasse 32B;8610;Uster-NF;47.357786;8.728507;;;;;;;;;;
+760;St. Gallerstrasse 101;8645;Jona;47.2297485;8.8469736;1; -   ; -   ;1;1;1;1; -   ;1;1
+739;Zugerstrasse 9;8810;Horgen;47.2478417;8.6053273;1;1; -   ; -   ;1;1;1; -   ; -   ;1
+676;Brandstrasse 47;8952;Schlieren;47.4015218;8.4403347;1; -   ; -   ; -   ;1;1; -   ; -   ; -   ;1
+523;Auerstrasse 20;9435;Heerbrugg;47.4134476;9.6304309;1;1; -   ; -   ;1;1;1; -   ; -   ;1
+150;St. Gallerstrasse 100;9470;Buchs SG 1;47.1765724;9.4673281;1; -   ; -   ; -   ;1;1;1; -   ; -   ;1
+151;Austrasse 37;9490;Vaduz;47.1292574;9.5233879; -   ;1; -   ; -   ; -   ; -   ;1; -   ; -   ; -   
